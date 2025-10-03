@@ -1,0 +1,15 @@
+
+
+body{ background-color: rgb(44, 4, 247);}
+
+
+
+
+.flex-item{
+    flex-basis: calc(33% - 10px);
+    flex-grow: 0;
+    flex-shrink: 0;
+    align-content: space-between;
+    background-color: rgb(24, 198, 152);
+    border: 1px solid white;
+}
